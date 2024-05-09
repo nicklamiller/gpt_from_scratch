@@ -1,0 +1,7 @@
+name: gpt_from_scratch
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pre-commit=3.6.2
+  - python=3.11
